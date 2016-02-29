@@ -1,0 +1,25 @@
+ul li{
+	display: inline;
+	padding-right: 10px;
+}
+ul li:hover{
+	text-decoration: underline;
+	color: blue;
+}
+h1{
+	text-align: center;
+	margin: auto;
+	font-size: 1000px;
+	text-shadow: 3px 1px 0 white, 3px 2px 0 blue;	
+	
+	font-family: "Times New Roman", Times, sans-serif;
+}
+
+div{
+	text-align: center;
+	margin: auto;
+	background:lightgreen;
+	width: 80%;
+	min-width: 600px;
+	height: 600px;
+}
